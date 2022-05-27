@@ -24,6 +24,7 @@ body {
   padding: 20px 24px;
 }
 #sidebar.active { left: 0; }
+
 #sidebar .toggle-btn {
   position: absolute;
   top: 30px;
